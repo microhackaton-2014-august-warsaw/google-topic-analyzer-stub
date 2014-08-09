@@ -7,6 +7,6 @@ class TwitterPlacesAnalyzerMediaType {
 
     public static final String CONTENT_TYPE = "Content-Type"
 
-    protected static final String APPLICATION_TYPE = "vnd.com.ofg.google-topic-analyzer.v1+json"
+    protected static final String APPLICATION_TYPE = "application/vnd.com.ofg.google-topic-analyzer.v1+json"
 
 }
